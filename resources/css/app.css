@@ -1,0 +1,5 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+/* Tambahan styling custom */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
